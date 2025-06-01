@@ -1,1 +1,1 @@
-# main
+# SnapScript - Lightweight task automation tool
