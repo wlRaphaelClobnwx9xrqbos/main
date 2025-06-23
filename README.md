@@ -15,3 +15,4 @@ collected 0 items
 
 ============================ no tests ran in 0.00s ============================= to execute tests.
 FAQ: Script syntax details in [syntax.md](docs/syntax.md).
+Community: Join discussions on [GitHub Discussions](https://github.com/user/snapscript/discussions).
